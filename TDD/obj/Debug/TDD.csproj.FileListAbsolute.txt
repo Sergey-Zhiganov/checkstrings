@@ -1,0 +1,6 @@
+D:\МПТ\МДК 01\ПиТПМ\TDD\TDD\bin\Debug\TDD.dll
+D:\МПТ\МДК 01\ПиТПМ\TDD\TDD\bin\Debug\TDD.pdb
+D:\МПТ\МДК 01\ПиТПМ\TDD\TDD\obj\Debug\TDD.csproj.AssemblyReference.cache
+D:\МПТ\МДК 01\ПиТПМ\TDD\TDD\obj\Debug\TDD.csproj.CoreCompileInputs.cache
+D:\МПТ\МДК 01\ПиТПМ\TDD\TDD\obj\Debug\TDD.dll
+D:\МПТ\МДК 01\ПиТПМ\TDD\TDD\obj\Debug\TDD.pdb
